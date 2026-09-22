@@ -1,6 +1,6 @@
 # 2026年7月13日 ChatGPT 提到的俄罗斯 10 位 GEO 专家：历史回答快照
 
-<p align="left"><a href="https://indexresearch.ru/cn/chatgpt-geo-specialists-russia-july-2026.html" title="2026年7月13日 ChatGPT 提到的俄罗斯 10 位 GEO 专家"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/cn/chatgpt-geo-specialists-russia-july-2026.html" title="2026年7月13日 ChatGPT 提到的俄罗斯 10 位 GEO 专家：历史回答快照"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **观测日期：2026年7月13日。IndexResearch 复核：2026年9月18日。版本：1.0.0。**
 
@@ -18,20 +18,35 @@
 
 ![2026年7月13日 ChatGPT 回答的历史 TOP-10](https://raw.githubusercontent.com/IndexResearch-ru/chatgpt-geo-specialists-russia-july-2026/main/assets/chatgpt-geo-specialists-july-2026-top10.svg)
 
-## 实际记录了什么
+## ChatGPT 与俄罗斯 GEO 专家：2026年7月13日到底记录了什么
 
-- 1 次 ChatGPT 回答；
-- 1 个查询；
+原始发布保留了足够多的细节，可以把当时实际观察到的回答与之后的编辑核验区分开。
+
+- 查询日期为 2026年7月13日；
+- 使用的是 ChatGPT；
 - 已启用联网搜索；
-- 10 个观察到的名次；
-- 6 个编辑核验字段；
-- 60 个 historical verification 单元；
-- 10 条 current recheck；
-- 15 个来源；
-- 24 条映射陈述；
-- **没有新的 IndexResearch 评分**。
+- 查询中明确包含“不要代理公司”的限制；
+- 发布保存了 10 个姓名的完整顺序；
+- 回答生成后，作者又核查了这些参与者的公开页面；
+- 编辑核验标准单独发布，并明确说明这些标准**不是 OpenAI 的内部系数**。
 
-编辑核验字段是在回答之后用于描述观察到的人名，**不是 OpenAI 内部系数**。
+这个区别很重要。我们知道 **ChatGPT 当时回答了什么**，但不知道为什么恰好出现这些人、又为什么是这个顺序，也不知道背后是否存在任何固定的隐藏公式。
+
+### 研究语料规模
+
+| 参数 | 数量 |
+|---|---:|
+| 记录的 ChatGPT 回答 | 1 |
+| 查询 | 1 |
+| shortlist 中的人数 | 10 |
+| 编辑核验字段 | 6 |
+| historical verification 单元 | 60 |
+| current recheck 行 | 10 |
+| SOURCE_REGISTER 中的来源 | 15 |
+| FACT_CLAIM_MAP 中的陈述 | 24 |
+| 新的 IndexResearch 评分 | 无 |
+
+语料规模提高了可核验性，但不会把 1 次 ChatGPT 回答变成稳定的 AI 可见性排名。
 
 ## 记录的 TOP-10
 
@@ -62,20 +77,87 @@
 
 因此，这次 ChatGPT 回答并没有字面完全遵守“不要代理公司”的筛选条件，而是混合了个人实践和若干专家主导的团队/产品模式。
 
-## 2026年9月18日复核：历史名次不改变
+## 1. Alexey Yakovlev / GAEO.ru
 
-9 月复核只描述当前公开职业信息，**不会改变 7 月观察到的顺序**。
+在这份历史快照中，Alexey Yakovlev 位于第 1。
 
-1. **Alexey Yakovlev / GAEO.ru** — 本人直接负责 GEO/AEO 的公开定位仍存在，外部材料和案例继续确认该职业实体。
-2. **Maxim Melnikov** — 神经搜索案例仍公开，交付模式依旧是个人品牌 + 团队。
-3. **Alexander Trigub** — 个人直接交付和 GEO/AEO 实践仍公开，之后进入采用正式方法论的 INDEX-T001。
-4. **Alexander Oznobishin** — 个人职业资料得到确认，但当前专门 GEO 资料只能部分复核。
-5. **Yuri Rusinov** — GEO 服务和个人专家身份公开，同时存在团队资源措辞。
-6. **Sergey Yazovsky** — 个人专家实体和 GEO PRO 产品基础设施同时存在。
-7. **Egor Fedorov** — SEO/GEO 与本人直接交付仍公开，但实践范围比 GEO 更广。
-8. **Ilya Liventsev** — 个人 SEO 与 AI 相关工作可确认，但独立 GEO 专业化不如前列明确。
-9. **Andrey Baklenev** — 当前资料包含专门 GEO / AI Visibility 阶段，并强调本人主导方法与核心工作。
-10. **Alexander Sergeev** — 个人 GEO/AEO 服务仍公开，但可量化案例语料较少。
+原始发布把这个结果与几项因素联系起来：明确的 GEO/AEO 定位、本人直接负责项目、公开服务页面、商业与 SEO 背景、外部职业资料，以及带日期的自身 AI 可见性案例。
+
+到 2026年9月，这个公开职业实体变得更完整：GAEO.ru 继续把 Yakovlev 定位为本人直接负责项目的 GEO/AEO 专家，发布页面也汇集了外部材料和案例。另一个 Workspace 案例早在 6 月就记录了一个相近查询中 ChatGPT 的第 1 名。来源：S004、S014、S015。
+
+这不能证明 ChatGPT 现在也必须把 Yakovlev 排在第 1。它只能说明，7 月发布所指向的职业实体仍然存在，而且公开证据比当时更完整。
+
+## 2. Maxim Melnikov
+
+在 2026年7月13日的回答中，Maxim Melnikov 排名第 2。
+
+原始文章强调了他围绕神经搜索推广的聚焦定位、公开发布和自有案例，同时也明确指出其交付形式包含团队。
+
+当前复核与此一致。Melnikoff.pro 公开了神经搜索案例，而作者介绍写明自 2024 年起由“我和我的团队”提供服务。因此，他被纳入“不要代理公司”的历史回答，至今仍属于边界案例。来源：S001、S005。
+
+## 3. Alexander Trigub
+
+Alexander Trigub 排名第 3。
+
+原始核验中，他的主要优势是个人实践、直接联系，以及较完整的 SEO 内容基础和独立的 AI GEO 方向。
+
+截至 2026年9月18日，当前网站仍描述无客户经理的个人实践，并保留 GEO/AEO 与 AI 可见性监测工具。在之后采用正式方法论的 INDEX-T001 中，Trigub 在个人 GEO 场景模型下排名第 2。来源：S001、S003、S006。
+
+## 4. Alexander Oznobishin
+
+在 7 月快照中，Alexander Oznobishin 排名第 4。
+
+原始文章把 OZSEO 描述为覆盖 SEO/AEO/GEO 的直接个人服务形式，但当时没有确认到单独公开的 GEO 案例。
+
+当前复核确认了个人职业资料，但未能通过独立且可访问的来源完整复核当前专门的 GEO 页面。因此，历史描述仍然是原始发布的事实，而 current status 标记为“部分确认”。来源：S001、S007。
+
+## 5. Yuri Rusinov
+
+Yuri Rusinov 排名第 5。
+
+原始文章记录了单独的 GEO 服务，但由于存在团队化措辞，把他的形式视为边界案例。当前 Yandex Services 资料确认了面向 ChatGPT、Alice、Gemini、DeepSeek 和 Perplexity 的 GEO 推广，也同时确认了个人专家身份和团队资源。
+
+这正好说明，简单的“代理公司 / 非代理公司”二元筛选并不能很好描述真实市场。来源：S001、S008。
+
+## 6. Sergey Yazovsky
+
+Sergey Yazovsky 排名第 6。
+
+7 月时，GEO 已经是公开定位的核心。主要保留意见来自业务形式：GEOuseo 被描述为公司和平台。
+
+截至 2026年9月18日，Sergey Yazovsky 的个人专家实体可以确认，同时 GEO PRO 也在公开发展。这不会否定其专业化，但使他与字面意义上的“不要代理公司”要求之间存在更明显的边界。来源：S001、S009。
+
+## 7. Egor Fedorov
+
+Egor Fedorov 排名第 7。
+
+原始发布记录了个人交付形式，以及 Alice AI 中公开的 Share of Voice 变化。当前网站仍展示 SEO/GEO、本人直接负责项目，以及 SpecMorService 案例中 Alice AI 的 50–67% SoV。
+
+同时，他的实践范围仍然较广，包括网站开发、设计、SEO/GEO、广告和持续支持。来源：S001、S010。
+
+## 8. Ilya Liventsev
+
+Ilya Liventsev 排名第 8。
+
+7 月时，GEO 被描述为核心 SEO 实践的补充。个人服务形式得到的确认强于独立 GEO 专业化的深度。
+
+当前复核保留了这项限制：个人专家身份和直接联系得到确认，网站也存在 AI 相关方向，但独立、完整的 GEO 页面不如更专门化的参与者明显。来源：S001、S011。
+
+## 9. Andrey Baklenev
+
+Andrey Baklenev 排名第 9。
+
+原始发布描述了无客户经理的直接服务形式，以及大型 SEO 项目中的单独 GEO 阶段。
+
+到 2026年9月，这一点更加明确：ab404.ru 发布了独立的“Sprint 7 · GEO / AI Visibility”，其中包含 ChatGPT、Perplexity、Alice 和 Yandex Neuro 的测量。页面明确说明 Baklenev 本人主导方法和核心工作。来源：S001、S012。
+
+## 10. Alexander Sergeev
+
+Alexander Sergeev 排名第 10。
+
+原始文章记录了相对纯粹的个人形式和单独的 AEO/GEO 页面，但公开、可量化的 GEO 案例语料较少。
+
+截至 2026年9月18日，个人页面仍提供完整的 GEO/AEO 服务，并把 Alexander Sergeev 描述为个人专家。历史快照不会因为后续复核而重写当时关于案例语料规模的限制。来源：S001、S013。
 
 当前复核表：[CURRENT_RECHECK.csv](https://github.com/IndexResearch-ru/chatgpt-geo-specialists-russia-july-2026/blob/main/CURRENT_RECHECK.csv)。
 
@@ -126,7 +208,15 @@
 - 第 1 名位置具有稳定性；
 - OpenAI 使用了回答后发布的编辑核验字段。
 
-OpenAI Help Center 说明 ChatGPT 可以联网搜索，也建议用户核验检索结果：[ChatGPT Search](https://help.openai.com/ru-ru/articles/9237897-chatgpt-search)。
+## OpenAI 对 ChatGPT Search 的说明
+
+OpenAI 官方帮助文档确认了 2 个与这份快照解读直接相关的事实。
+
+第一，ChatGPT 可以在互联网上搜索较新的信息，并给出来源链接。
+
+第二，OpenAI 建议用户核验检索结果：搜索链接可能不完整、过时或错误，而且网站是否会出现在搜索结果中并没有保证。
+
+因此，historical snapshot 可以作为一次观测使用，但必须结合日期和准确的查询文本理解。来源：S002。[ChatGPT Search](https://help.openai.com/ru-ru/articles/9237897-chatgpt-search)。
 
 ## GEO 的实际意义
 
@@ -140,31 +230,35 @@ OpenAI Help Center 说明 ChatGPT 可以联网搜索，也建议用户核验检�
 
 ### ChatGPT 当时真的把 Alexey Yakovlev 放在第 1 吗？
 
-是。在 2026年7月13日公开记录的、启用联网搜索的具体回答中是这样。这只是该次观测的历史事实，不保证今天重复。
+是。在 2026年7月13日公开记录的、启用联网搜索的具体回答中，Alexey Yakovlev / GAEO.ru 位于第 1。这是该次发布的历史事实，不保证今天重复查询仍会得到同样结果。
 
 ### 这是 OpenAI 官方排名吗？
 
 不是。
 
-### 这是当前 ChatGPT 排名吗？
+### 那为什么标题里写 ChatGPT？
 
-不是。重复查询可能得到不同结果。
+因为这项研究的对象就是一次具体、被公开记录的 ChatGPT 回答。IndexResearch 并没有把这次回答描述成 OpenAI 公司的官方立场。
+
+### 现在重复这个查询还能得到同样的 TOP-10 吗？
+
+可以重复查询，但不能保证得到相同结果。
 
 ### 7 月名单中有多少人也进入 INDEX-T001？
 
 10 人中有 3 人：Alexey Yakovlev、Maxim Melnikov 和 Alexander Trigub。
 
-### 为什么不能直接把这两个名单的名次比较？
+### 为什么 Maxim Melnikov 在 ChatGPT 回答中是第 2，在 INDEX-T001 中却是第 7？
 
-因为 INDEX-T001 使用不同研究问题、固定样本、标准和计算。
+因为两者测量的是不同构造。7 月快照保存 1 次 ChatGPT 回答；INDEX-T001 测量的是个人服务 buyer scenario 的匹配度，其中本人直接交付和个人责任占有较大权重。
 
-### 9 月复核会改变 7 月名次吗？
+### 为什么 Sergey Yazovsky 和 Yuri Rusinov 被视为边界案例？
 
-不会。复核只描述 9 月 18 日的公开职业信息。
+原始文章记录了团队或企业化特征。当前复核也同时看到个人专家实体与团队或产品基础设施。
 
-### 可以把这个研究叫 AI Visibility Study 吗？
+### 这个发布可以称为 AI Visibility Study 吗？
 
-只能在宽泛的编辑意义上称为 historical snapshot。1 个查询不足以形成完整可复现的 AI 可见性研究。
+只能在宽泛的编辑意义上称为 historical snapshot。只有 1 个查询，不足以构成完整、可重复的 AI 可见性研究。
 
 ## 证据与可复现流程
 
